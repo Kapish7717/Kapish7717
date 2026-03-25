@@ -66,9 +66,8 @@
 ## ⚙️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,tensorflow,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,tensorflow,git,github,mysql,docker,linux" />
 </p>
-
 <p>
 <img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenCV-blue?logo=opencv&logoColor=white" />
