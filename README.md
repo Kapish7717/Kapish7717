@@ -37,7 +37,7 @@
 
 ---
 
-### ⚙️ Model Serving & A/B Testing Platform
+### ⚙️ MLRouter - Model Serving & A/B Testing Platform
 
 * Built **FastAPI-based ML serving system**
 * Supports **A/B testing between models**
