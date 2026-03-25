@@ -69,6 +69,12 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,tensorflow,git,github,mysql" />
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-blue?logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-black?logo=plotly&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Stats
