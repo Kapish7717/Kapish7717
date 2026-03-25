@@ -61,12 +61,7 @@
 
 ---
 
-### 🌱 Crop Recommendation System
 
-* ML model achieving **99% accuracy**
-* Used clustering + Random Forest
-
----
 
 ## ⚙️ Tech Stack
 
