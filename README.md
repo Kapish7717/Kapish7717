@@ -81,7 +81,7 @@
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/kapish-sharma-446458214)
 * 📧 Email: [mfkapish@gmail.com](mailto:mfkapish@gmail.com)
 
 ---
