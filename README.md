@@ -36,6 +36,13 @@
 * Improved response accuracy with reranking
 
 ---
+### 💰 AI CFO Agent 
+
+* Financial data ingestion from CSV/Excel/Google Sheets
+* AI-powered anomaly detection and automated PDF reporting
+* Email dispatch and meeting scheduling via Google Calendar
+---
+
 
 ### ⚙️ MLRouter - Model Serving & A/B Testing Platform
 
@@ -45,12 +52,6 @@
 
 ---
 
-### 💰 AI CFO Agent (In Progress)
-
-* Financial data ingestion from CSV/Excel/Google Sheets
-* AI-powered anomaly detection and automated PDF reporting
-* Email dispatch and meeting scheduling via Google Calendar
----
 
 ### 🥔 Potato Disease Classifier
 
