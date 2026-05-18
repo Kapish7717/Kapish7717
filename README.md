@@ -45,12 +45,11 @@
 
 ---
 
-### 🤖 AI Support Agent (In Progress)
+### 💰 AI CFO Agent (In Progress)
 
-* Ticket classification using LLMs
-* RAG-based response generation
-* Escalation system with summarization
-
+* Financial data ingestion from CSV/Excel/Google Sheets
+* AI-powered anomaly detection and automated PDF reporting
+* Email dispatch and meeting scheduling via Google Calendar
 ---
 
 ### 🥔 Potato Disease Classifier
