@@ -12,7 +12,7 @@
 
 ## 🚀 Currently Working On
 
-* 🤖 AI Support Agent (LLM + RAG + workflows)
+* 🤖 AI CFO Agnt
 * 🧠 Advanced Hybrid RAG systems
 * ⚙️ AI Agents & decision-based workflows
 
