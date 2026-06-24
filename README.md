@@ -20,18 +20,6 @@ Currently in my final year of B.Tech (IT) at MSIT, Delhi — actively looking fo
 
 ## 🔧 Featured Projects
 
-### 🛡️ PR Sentinel — Autonomous GitHub PR Review Agent
-> *LangGraph · Groq (LLaMA-3.3-70B) · GitHub API · FastAPI · Docker*
-
-An autonomous code review agent that analyzes pull requests end-to-end — detects bugs, security risks, and style violations with evidence-grounded output to eliminate hallucinations.
-
-- Multi-node LangGraph pipeline: fetch → analyze → verify → report
-- Evidence-grounded hallucination verification with few-shot prompting
-- Dependency-file guardrail to avoid reviewing auto-generated files
-- Structured review output with severity classification
-
----
-
 ### 🔍 HybridRAG — Advanced Retrieval-Augmented Generation System
 > *ChromaDB · BM25 · Cross-Encoder Reranking · Groq LLaMA-3.3-70B · RAGAS · Docker*
 
@@ -42,6 +30,18 @@ Production RAG system combining dense vector search with sparse BM25 retrieval, 
 - Text-to-SQL pipeline for structured data queries
 - RAGAS evaluation framework integrated for quality benchmarking
 - Deployed via Docker on Render
+
+---
+
+### 🛡️ PR Sentinel — Autonomous GitHub PR Review Agent
+> *LangGraph · Groq (LLaMA-3.3-70B) · GitHub API · FastAPI · Docker*
+
+An autonomous code review agent that analyzes pull requests end-to-end — detects bugs, security risks, and style violations with evidence-grounded output to eliminate hallucinations.
+
+- Multi-node LangGraph pipeline: fetch → analyze → verify → report
+- Evidence-grounded hallucination verification with few-shot prompting
+- Dependency-file guardrail to avoid reviewing auto-generated files
+- Structured review output with severity classification
 
 ---
 
