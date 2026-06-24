@@ -1,98 +1,108 @@
-# Hi 👋, I'm Kapish Sharma
+<div align="center">
 
-🚀 **AI/ML Engineer | Generative AI & LLM Enthusiast**
+# Kapish Sharma
 
-💡 Building intelligent systems using **RAG, LLMs, and scalable AI workflows**
+**AI Engineer · LangGraph · RAG Systems · LLM Agents**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapish-sharma-446458214)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mfkapish@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kapish7717)
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="50%"/>
-
----
-
-## 🚀 Currently Working On
-
-* 🤖 AI CFO Agnt
-* 🧠 Advanced Hybrid RAG systems
-* ⚙️ AI Agents & decision-based workflows
+</div>
 
 ---
 
-## 🧠 About Me
+I build **production-grade agentic AI systems** — from autonomous PR reviewers to financial intelligence agents. My focus is on deterministic, multi-agent pipelines using LangGraph, grounded on real retrieval and deployed to ship.
 
-* 💻 Strong in **Python, Machine Learning, and backend systems**
-* 🤖 Focused on **Generative AI, LLMs, and real-world AI applications**
-* ⚙️ Built **ML + GenAI + MLOps systems**
-* 🎯 Goal: Become an **AI Engineer building production AI systems**
+Currently in my final year of B.Tech (IT) at MSIT, Delhi — actively looking for **AI Engineer internships and full-time roles**.
 
 ---
 
-## 🔥 Featured Projects
+## 🔧 Featured Projects
 
-### 🧠 HybridRAG (GenAI System)
+### 🛡️ PR Sentinel — Autonomous GitHub PR Review Agent
+> *LangGraph · Groq (LLaMA-3.3-70B) · GitHub API · FastAPI · Docker*
 
-* Hybrid retrieval using **Vector Search + BM25**
-* Integrated **LLaMA (Groq)** for QA and Text-to-SQL
-* Improved response accuracy with reranking
+An autonomous code review agent that analyzes pull requests end-to-end — detects bugs, security risks, and style violations with evidence-grounded output to eliminate hallucinations.
 
----
-### 💰 AI CFO Agent 
-
-* Financial data ingestion from CSV/Excel/Google Sheets
-* AI-powered anomaly detection and automated PDF reporting
-* Email dispatch and meeting scheduling via Google Calendar
----
-
-
-### ⚙️ MLRouter - Model Serving & A/B Testing Platform
-
-* Built **FastAPI-based ML serving system**
-* Supports **A/B testing between models**
-* Tracks **latency, performance, and routing**
+- Multi-node LangGraph pipeline: fetch → analyze → verify → report
+- Evidence-grounded hallucination verification with few-shot prompting
+- Dependency-file guardrail to avoid reviewing auto-generated files
+- Structured review output with severity classification
 
 ---
 
+### 🔍 HybridRAG — Advanced Retrieval-Augmented Generation System
+> *ChromaDB · BM25 · Cross-Encoder Reranking · Groq LLaMA-3.3-70B · RAGAS · Docker*
 
-### 🥔 Potato Disease Classifier
+Production RAG system combining dense vector search with sparse BM25 retrieval, reranked via cross-encoder for maximum answer accuracy.
 
-* CNN model with ~90% accuracy
-* Deployed using **FastAPI + Docker**
-* Real-time inference system
+- Hybrid retrieval: semantic (ChromaDB) + keyword (BM25) fusion
+- Cross-encoder reranking for precision scoring
+- Text-to-SQL pipeline for structured data queries
+- RAGAS evaluation framework integrated for quality benchmarking
+- Deployed via Docker on Render
 
 ---
 
+### 💰 AI CFO Agent — Financial Intelligence Platform
+> *LangGraph · FastMCP · FastAPI · Gradio · Google OAuth · Groq · Docker · Hugging Face Spaces*
 
+Agentic financial analyst that ingests CSV/Excel/Google Sheets, detects anomalies, generates PDF reports, and dispatches insights via email and calendar.
 
-## ⚙️ Tech Stack
+- LangGraph orchestration with FastMCP tool server
+- Google OAuth integration (Drive, Gmail, Calendar)
+- Automated PDF report generation with anomaly highlights
+- Deployed on Hugging Face Spaces with Docker
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,tensorflow,git,github,mysql,docker,linux" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenCV-blue?logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-black?logo=plotly&logoColor=white" />
-</p>
+---
+
+### ⚙️ MLRouter — ML Model Serving & A/B Testing Platform
+> *FastAPI · Docker · Python*
+
+FastAPI-based platform for serving and comparing ML models in production, with built-in A/B routing, latency tracking, and performance dashboards.
+
+- Dynamic request routing across model variants
+- Real-time latency and accuracy metrics
+- Extensible for new model endpoints without downtime
+
+---
+
+## 🛠️ Core Stack
+
+| Layer | Tools |
+|---|---|
+| **Agent Orchestration** | LangGraph, CrewAI, FastMCP |
+| **LLMs & Inference** | Groq, LLaMA 3.3-70B, Gemini, HuggingFace |
+| **Retrieval & RAG** | ChromaDB, BM25, Cross-Encoder, RAGAS |
+| **Backend** | FastAPI, Python, REST APIs |
+| **ML/CV** | TensorFlow, PyTorch, YOLOv8, Scikit-learn, OpenCV |
+| **DevOps & Deploy** | Docker, GitHub Actions, HF Spaces, Render |
+| **Databases** | MySQL, SQLite, ChromaDB |
+
+---
+
+## 📌 Experience
+
+**AI/ML Intern — Amazin Automation Pvt. Ltd.** *(Gurugram)*
+Deployed YOLOv8-based computer vision models for enterprise clients including Ambuja Cement and ACC. Achieved measurable accuracy improvements on real production workloads.
+
 ---
 
 ## 📊 GitHub Stats
 
-![Kapish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapish7717\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapish7717\&layout=compact\&theme=tokyonight)
+![Kapish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapish7717&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapish7717&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 📫 Connect with Me
-
-* 💼 LinkedIn: [https://linkedin.com/in/kapish-sharma](https://www.linkedin.com/in/kapish-sharma-446458214)
-* 📧 Email: [mfkapish@gmail.com](mailto:mfkapish@gmail.com)
+</div>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-💡 I enjoy building **real-world AI systems** and turning ideas into scalable products 🚀
+*Open to AI Engineer internships and SDE roles focused on LLMs, agents, and production AI systems.*
+**mfkapish@gmail.com · Delhi NCR, India**
 
----
+</div>
