@@ -73,7 +73,7 @@ FastAPI-based platform for serving and comparing ML models in production, with b
 | Layer | Tools |
 |---|---|
 | **Agent Orchestration** | LangGraph, CrewAI, FastMCP |
-| **LLMs & Inference** | Groq, LLaMA 3.3-70B, Gemini, HuggingFace |
+| **LLMs & Inference** | OpenAI, Groq, LLaMA 3.3-70B, Gemini, HuggingFace |
 | **Retrieval & RAG** | ChromaDB, BM25, Cross-Encoder, RAGAS |
 | **Backend** | FastAPI, Python, REST APIs |
 | **ML/CV** | TensorFlow, PyTorch, YOLOv8, Scikit-learn, OpenCV |
