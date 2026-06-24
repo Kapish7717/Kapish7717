@@ -33,18 +33,6 @@ Production RAG system combining dense vector search with sparse BM25 retrieval, 
 
 ---
 
-### 🛡️ PR Sentinel — Autonomous GitHub PR Review Agent
-> *LangGraph · Groq (LLaMA-3.3-70B) · GitHub API · FastAPI · Docker*
-
-An autonomous code review agent that analyzes pull requests end-to-end — detects bugs, security risks, and style violations with evidence-grounded output to eliminate hallucinations.
-
-- Multi-node LangGraph pipeline: fetch → analyze → verify → report
-- Evidence-grounded hallucination verification with few-shot prompting
-- Dependency-file guardrail to avoid reviewing auto-generated files
-- Structured review output with severity classification
-
----
-
 ### 💰 AI CFO Agent — Financial Intelligence Platform
 > *LangGraph · FastMCP · FastAPI · Gradio · Google OAuth · Groq · Docker · Hugging Face Spaces*
 
@@ -54,6 +42,18 @@ Agentic financial analyst that ingests CSV/Excel/Google Sheets, detects anomalie
 - Google OAuth integration (Drive, Gmail, Calendar)
 - Automated PDF report generation with anomaly highlights
 - Deployed on Hugging Face Spaces with Docker
+
+---
+
+### 🛡️ PR Sentinel — Autonomous GitHub PR Review Agent
+> *LangGraph · Groq (LLaMA-3.3-70B) · GitHub API · FastAPI · Docker*
+
+An autonomous code review agent that analyzes pull requests end-to-end — detects bugs, security risks, and style violations with evidence-grounded output to eliminate hallucinations.
+
+- Multi-node LangGraph pipeline: fetch → analyze → verify → report
+- Evidence-grounded hallucination verification with few-shot prompting
+- Dependency-file guardrail to avoid reviewing auto-generated files
+- Structured review output with severity classification
 
 ---
 
