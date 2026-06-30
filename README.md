@@ -91,9 +91,8 @@ Deployed YOLOv8-based computer vision models for enterprise clients including Am
 
 ## Coding Profiles
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kGCtccLRib?theme=dark&font=Karma)](https://leetcode.com/u/kGCtccLRib/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kGCtccLRib?theme=radical)](https://leetcode.com/u/kGCtccLRib/)
 
-- Solved 150+ DSA problems across Arrays, Trees, Graphs, DP, and System Design patterns.
 
 ## 📊 GitHub Stats
 
