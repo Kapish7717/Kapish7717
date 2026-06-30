@@ -89,9 +89,15 @@ Deployed YOLOv8-based computer vision models for enterprise clients including Am
 
 ---
 
-## Coding Profiles
+## Problem Solving
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kGCtccLRib?theme=radical)](https://leetcode.com/u/kGCtccLRib/)
+- Solved **150+ problems** across Data Structures & Algorithms and SQL on LeetCode.
+- Strong foundation in:
+  - Arrays, Trees, Graphs, Dynamic Programming
+  - Sliding Window and Monotonic Stack patterns
+  - SQL joins, aggregations, window functions, and query optimization
+
+🔗 LeetCode: https://leetcode.com/u/kGCtccLRib/
 
 
 ## 📊 GitHub Stats
