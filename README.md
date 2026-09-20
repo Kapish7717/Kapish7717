@@ -20,6 +20,20 @@ Currently in my final year of B.Tech (IT) at MSIT, Delhi — actively looking fo
 
 ## 🔧 Featured Projects
 
+### 💰 AI CFO Agent — Financial Intelligence Platform  `⭐ Flagship`
+> *LangGraph · FastMCP · FastAPI · React 19 (TanStack Start) · Google OAuth · Groq · Docker · Vercel · Render*
+
+Agentic financial analyst that ingests CSV/Excel/Google Sheets/bank PDFs, detects anomalies and budget breaches, answers questions over your transactions via natural-language RAG, generates PDF reports, and dispatches insights via email and calendar.
+
+- LangGraph ReAct agent orchestration with a FastMCP tool server
+- Google OAuth integration (Gmail, Calendar, Sheets)
+- Automated PDF report generation with anomaly highlights
+- Deployed live: React frontend on **Vercel**, FastAPI backend on **Render**
+
+🔗 **[Live Demo](https://ai-cfo-agent-tau.vercel.app/)** · **[Repo](https://github.com/Kapish7717/AI-CFO-Agent)**
+
+---
+
 ### 🔍 HybridRAG — Advanced Retrieval-Augmented Generation System
 > *ChromaDB · BM25 · Cross-Encoder Reranking · Groq LLaMA-3.3-70B · RAGAS · Docker*
 
@@ -45,18 +59,6 @@ An autonomous code review agent that analyzes pull requests end-to-end — detec
 
 ---
 
-### 💰 AI CFO Agent — Financial Intelligence Platform
-> *LangGraph · FastMCP · FastAPI · Gradio · Google OAuth · Groq · Docker · Hugging Face Spaces*
-
-Agentic financial analyst that ingests CSV/Excel/Google Sheets, detects anomalies, generates PDF reports, and dispatches insights via email and calendar.
-
-- LangGraph orchestration with FastMCP tool server
-- Google OAuth integration (Drive, Gmail, Calendar)
-- Automated PDF report generation with anomaly highlights
-- Deployed on Hugging Face Spaces with Docker
-
----
-
 ### ⚙️ MLRouter — ML Model Serving & A/B Testing Platform
 > *FastAPI · Docker · Python*
 
@@ -76,9 +78,10 @@ FastAPI-based platform for serving and comparing ML models in production, with b
 | **LLMs & Inference** | OpenAI, Groq, LLaMA 3.3-70B, Gemini, HuggingFace |
 | **Retrieval & RAG** | ChromaDB, BM25, Cross-Encoder, RAGAS |
 | **Backend** | FastAPI, Python, REST APIs |
+| **Frontend** | React 19, TanStack Start, Tailwind CSS |
 | **ML/CV** | TensorFlow, PyTorch, YOLOv8, Scikit-learn, OpenCV |
-| **DevOps & Deploy** | Docker, GitHub Actions, HF Spaces, Render |
-| **Databases** | MySQL, SQLite, ChromaDB |
+| **DevOps & Deploy** | Docker, GitHub Actions, Vercel, Render |
+| **Databases** | PostgreSQL, MySQL, SQLite, ChromaDB |
 
 ---
 
